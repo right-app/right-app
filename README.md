@@ -1,1 +1,1 @@
-- 👋 Hi, this is an anonymized application repo
+- 👋 Hi, this is an anonymized repo
