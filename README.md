@@ -1,1 +1,1 @@
-- 👋 Hi, this is an anonymized application repo @right-app
+- 👋 Hi, this is an anonymized application repo
